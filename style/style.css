@@ -1,0 +1,89 @@
+/* ----- for font ------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.quicksand-normal{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+  /*---------------------------------------------*/
+
+/* for nav */
+.nav{
+    display:flex;
+     justify-content: space-around; 
+    /* justify-content:space-between;*/
+    align-items: center;
+    padding-top: 20px;
+    padding-right: 140px;
+    padding-left: 140px;
+} 
+
+
+/* for nav1 */
+.nav1 {
+    display:flex;
+}
+.nav1 img{
+    width:90px;
+  
+  }
+.school{
+    font-size:2rem;
+    font-weight: bold;
+    margin-left: 11px;
+}
+
+.Home{
+   color: rgba(254, 163, 1, 1);
+   font-size: 1.25rem;
+   font-weight: bold; 
+}
+.About{
+    font-size: 1.25rem;
+   font-weight: 400;
+   color:rgba(1, 172, 253, 1); 
+}
+.Facilities{
+    font-size: 1.25rem;
+    font-weight: 400;
+    color:rgba(5, 212, 223, 1);
+}
+.Admission{
+    font-size: 1.25rem;
+    font-weight: 400;
+    color:rgba(93, 88, 239, 1);
+
+}
+
+/* for nav2 */
+.nav2 ul li{
+    list-style:none;
+    margin: 32px;  
+}
+.nav2  li a{
+  
+    text-decoration:none;
+}
+.nav2 ul{
+    display:flex;
+    
+}
+.nav2{
+    margin-right: 65px;
+}
+/* for nav3 */
+
+.btn-1{
+    width: 197px;
+    height: 50px;
+    border-radius: 12px;
+    background-color:rgba(254, 163, 1, 1);
+    border: none;
+    font-size: 1.25rem;
+    font-weight:600;
+    color:#FFFF; 
+}
+
