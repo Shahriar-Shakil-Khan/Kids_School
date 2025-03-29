@@ -623,6 +623,56 @@ text-align: center;
    #vission{
     display: block;
    }
+
+   .section6{
+    flex-direction: column;
+   }
+   .footer_image{
+    width: 25%;
+   }
+   .kid{
+    font-size: 2rem;
+    width:50px ;
+    margin-top: 40px;
+    
+   }
+   .section4{
+    margin-left: 20px;
+    margin-top: 0px;
    
+   }
+   .section5{
+    margin-left: 20px;
+    margin-top: 50px;
+   }
+   #keep{
+    margin-left:5px;
+
+   }
+   .nav1{
+    font-size: 2rem;
+   }
+   .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius:15px;
+  }
+  .footer{
+    width: 100%;
+    height: 750px;
+    margin-top: -100px;
+    
+  }
+  .section3 {
+    margin-top:50px;
+}
+.section4{
+    margin-top:3px;
+}
+
 }
 
