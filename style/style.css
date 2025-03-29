@@ -626,6 +626,7 @@ text-align: center;
 
    .section6{
     flex-direction: column;
+    margin-left: 10px;
    }
    .footer_image{
     width: 25%;
@@ -633,7 +634,7 @@ text-align: center;
    .kid{
     font-size: 2rem;
     width:50px ;
-    margin-top: 40px;
+    margin-top: 30px;
     
    }
    .section4{
