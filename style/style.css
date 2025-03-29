@@ -416,6 +416,89 @@ text-align: center;
    display:none;
 }
 
+/*******************************************************/
+.footer{
+    width:100%;
+    height: 520px;
+    background-color:rgb(196, 230, 248) ;
+}
+.section6{
+    
+    display: flex;
+    justify-content: space-around;
+}
+.footer1{
+    display: flex; 
+    gap:10px;
+}
+#footer_intro{
+    width:400px ;
+    height: 100px;
+    color: rgb(103, 96, 96);
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.footer_image{
+    width: 50%;
+}
+.kid{
+    font-weight: bold;
+    font-size:2.625rem ;
+    color: rgb(103, 96, 96);
+}
+
+.nav1{
+    font-weight: bold;
+    font-size:2.625rem ;
+    color: rgb(103, 96, 96);
+}
+
+.section4 li a{
+    text-decoration: none;
+    font-weight:400;
+    font-size:1.5rem ;
+    margin-left: 3px;
+    
+    
+}
+.section4 li{
+    margin-top: 15px;
+    list-style-type: none;
+}
+#keep{
+    margin-left: 50px;
+}
+.section3, .section4,.section5{
+    margin-top:125px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+   
+
 /*for nav media quary */
 
 @media screen and (max-width:576px) {
